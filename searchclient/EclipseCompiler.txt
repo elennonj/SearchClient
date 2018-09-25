@@ -1,0 +1,17 @@
+17 Sep 2018 11:38:33 GMT: Log 'EclipseCompiler.txt' opened: 17 Sep 2018 11:38:33 GMT with name C:\Users\deede\Desktop\searchclient\searchclient\EclipseCompiler.txt
+17 Sep 2018 11:38:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1f1e32
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ee053
+fileObjects = [C:\Users\deede\Desktop\searchclient\searchclient\SearchClient.java]
+17 Sep 2018 11:38:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7983d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\deede\Desktop\searchclient;C:\Users\deede\Desktop\drjava-beta-20160913-225446.exe]
+17 Sep 2018 11:38:58 GMT: Compiler call returned
+17 Sep 2018 11:38:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17ec029
+17 Sep 2018 11:38:58 GMT:  Kind = ERROR
+17 Sep 2018 11:38:58 GMT: Name = C:\Users\deede\Desktop\searchclient\searchclient\SearchClient.java LineNo = 99 ColNo = 21 Msg = 'Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted'
+17 Sep 2018 11:39:20 GMT: diagnostics = javax.tools.DiagnosticCollector@12c21e8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1620aa3
+fileObjects = [C:\Users\deede\Desktop\searchclient\searchclient\SearchClient.java]
+17 Sep 2018 11:39:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d1671' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\deede\Desktop\searchclient;C:\Users\deede\Desktop\drjava-beta-20160913-225446.exe]
+17 Sep 2018 11:39:20 GMT: Compiler call returned
+17 Sep 2018 11:39:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@126c034
+17 Sep 2018 11:39:20 GMT:  Kind = ERROR
+17 Sep 2018 11:39:20 GMT: Name = C:\Users\deede\Desktop\searchclient\searchclient\SearchClient.java LineNo = 99 ColNo = 21 Msg = 'Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted'
